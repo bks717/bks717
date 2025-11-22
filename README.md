@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Implementing COT using LLM for Geospatial Analysis**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full-stack**
 
 - 📫 How to reach me **krupaintros@gmail.com**
 
