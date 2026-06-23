@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavani Krupakara S</h1>
+<h1 align="center">Hi 👋, I'm BKS</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bks717&label=Profile%20views&color=0e75b6&style=flat" alt="bks717" /> </p>
 
 - 🔭 I’m currently working on **Implementing COT using LLM for Geospatial Analysis**
