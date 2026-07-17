@@ -47,7 +47,7 @@
 
 </td>
 <td width="40%" valign="top">
-<img src="assets/meme.webp" width="100%"/>
+<img src="github-anime-image.webp" width="100%"/>
 </td>
 </tr>
 </table>
