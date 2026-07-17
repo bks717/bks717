@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Bhavani%20Krupakara%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20RAG%20%26%20LLM%20Enthusiast%20%7C%20Blockchain%20Explorer&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Bhavani%20Krupakara%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20RAG%2FLLM%20Enthusiast%20%7C%20Blockchain%20Explorer&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
 </p>
 
 <p align="center">
@@ -45,45 +45,12 @@
 
 ### 📘 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/bks717/Placement-Intelligence-Assistant-PIA--RAG" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bks717&repo=Placement-Intelligence-Assistant-PIA--RAG&theme=radical" alt="Placement Intelligence Assistant (PIA)"/>
-  </a>
-  <a href="https://github.com/BhuvanSShetty/AXIOS---A-Blockchain-Principle-Based-Ledger" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhuvanSShetty&repo=AXIOS---A-Blockchain-Principle-Based-Ledger&theme=radical" alt="AXIOS - A Blockchain Principle-Based Ledger"/>
-  </a>
-  <br/>
-  <a href="https://github.com/bks717/mp-latest" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bks717&repo=mp-latest&theme=radical" alt="mp-latest - ML Disaster Prediction System"/>
-  </a>
-  <a href="https://github.com/HMAjay/BlockSeat" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMAjay&repo=BlockSeat&theme=radical" alt="BlockSeat"/>
-  </a>
-</p>
-
 | Project | Description | My Role |
 |---|---|---|
 | 🤖 [Placement Buddy (PIA)](https://github.com/bks717/Placement-Intelligence-Assistant-PIA--RAG) | RAG-based Placement Intelligence Assistant | Creator |
 | ⛓️ [AXIOS — Blockchain Principle-Based Ledger](https://github.com/BhuvanSShetty/AXIOS---A-Blockchain-Principle-Based-Ledger) | A blockchain-based ledger system | Collaborator |
 | 🌪️ [mp-latest](https://github.com/bks717/mp-latest) | ML-based Disaster Prediction System (Major Project, Python + ML) | Creator |
 | 🎟️ [BlockSeat](https://github.com/HMAjay/BlockSeat) | RCB website reconstructed with blockchain-based seating | Contributor |
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bks717&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bks717&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bks717&theme=radical&hide_border=true" alt="bks717's streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bks717&theme=react-dark&hide_border=true" alt="bks717's activity graph"/>
-</p>
 
 ---
 
@@ -119,6 +86,23 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bks717&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bks717&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bks717&theme=radical&hide_border=true" alt="bks717's streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bks717&theme=react-dark&hide_border=true" alt="bks717's activity graph"/>
+</p>
 
 ---
 
