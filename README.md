@@ -33,6 +33,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 👩‍💻 About Me
 
 - 🔭 I'm currently working on **Placement Buddy (PIA)** — a RAG-based placement intelligence assistant
@@ -40,6 +44,13 @@
 - ⛓️ I collaborate on **blockchain-based** projects on the side
 - 📫 How to reach me: **krupaintros@gmail.com**
 - 📍 Based in **Bengaluru**
+
+</td>
+<td width="40%" valign="top">
+<img src="assets/meme.webp" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,8 +103,8 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bks717&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bks717&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bks717&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bks717&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
