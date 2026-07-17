@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bhavani Krupakara S</h1>
-<h3 align="center">💻 Software Developer | 🧠 RAG & LLM Enthusiast | ⛓️ Blockchain Explorer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Bhavani%20Krupakara%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20RAG%20%26%20LLM%20Enthusiast%20%7C%20Blockchain%20Explorer&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bhavani+Krupakara+S;Software+Developer+%F0%9F%92%BB;Building+with+RAG+%26+LLMs+%F0%9F%A7%A0;Exploring+Blockchain+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
