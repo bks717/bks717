@@ -39,11 +39,13 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I'm currently working on **Placement Buddy (PIA)** — a RAG-based placement intelligence assistant
-- 🌱 I'm currently learning **Full-Stack Development**
-- ⛓️ I collaborate on **blockchain-based** projects on the side
-- 📫 How to reach me: **krupaintros@gmail.com**
-- 📍 Based in **Bengaluru**
+- 🔭 Building **Placement Buddy** — an AI-powered placement intelligence assistant that helps students prepare smarter using RAG and LLMs
+- 💻 Passionate about **Software Development**, with experience building full-stack applications, AI-powered solutions, and scalable backend systems
+- ⛓️ Collaborated on **blockchain-based projects**, developing secure, tamper-evident systems using modern cryptographic techniques
+- 🏆 **Winner (1st Place) at AIKYAM**, a national-level IP Conclave, and **Top 7 Finalist** at a national hackathon among 160+ teams for building innovative software solutions
+- 🚀 Interested in **Artificial Intelligence, Full-Stack Development, Blockchain, and System Design**
+- 📫 Reach me at: **[krupaintros@gmail.com](mailto:krupaintros@gmail.com)**
+- 📍 Based in **Bengaluru, India**
 
 </td>
 <td width="40%" valign="top">
